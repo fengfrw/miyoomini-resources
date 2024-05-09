@@ -1,0 +1,15 @@
+
+升级教程
+1.将img镜像文件复制到SD卡的根目录
+2.保持机器关闭，插入带有副本的SD卡
+3.插上USB充电线，等待几秒钟，火箭出现，代表升级(升级过程中充电线不能拔下)。
+4.升级固件时间需要5-8分钟
+
+
+
+
+Upgrade tutorial
+1. Copy the img image file to the root directory of the SD card
+2. Keep the machine shut down and plug in the SD card with the copy
+3. Plug in the USB charging cable, wait a few seconds, and the rocket will appear, representing the upgrade (the charging cable cannot be removed during the upgrade process).
+ 4. It takes 5-8 minutes to upgrade the firmware.
