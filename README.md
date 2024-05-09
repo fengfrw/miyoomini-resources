@@ -6,7 +6,7 @@ Miyoo Mini 2,8" "OG"
 **miyoo_354**  
 Miyoo Mini+ 3,5" "MMP"
 
-**miyoo_282**
+**miyoo_282**  
 Miyoo Mini 2,8" "A30"
 
 [**Wiki**](https://github.com/anzz1/miyoomini-resources/wiki)
