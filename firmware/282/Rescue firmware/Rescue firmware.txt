@@ -1,0 +1,25 @@
+https://drive.google.com/file/d/1zNER2zrgowBifCnePHnAS-w4_Wiqn-yS/view?usp=drive_link
+
+Rescue firmware:
+1. The extracted img file,
+2. Use tools to flash img to a blank TF card,
+3. Insert the pre written TF card back into A30,
+5. Connect the power, turn on the machine,
+6. After automatic completion, shut down and retrieve the card,
+7. Check if it starts up normally,
+8. Perform firmware upgrade again.
+
+Attention: During flashing, a splash screen will appear, which is normal!
+
+救砖固件：
+1、解压得到img文件，
+2、使用工具（rufus）刷写到空白TF卡，
+3、刷写好的TF卡插回A30机器，
+5、插电开机自动刷机，
+6、完成后关机取卡，
+7、能正常开机完成，
+8、重新进行正常固件升级。
+
+注意：过程期间会出现花屏现象属正常！
+
+
