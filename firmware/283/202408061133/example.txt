@@ -1,0 +1,21 @@
+config.json：
+
+    "launchlist": [
+        {
+            "name": "FCEUMM",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "NESTOPIA",
+            "launch": "launch1.sh"
+        }
+    ]
+
+新增多选择脚本，选择后会设置为默认，
+下次运行使用选择的内核启动游戏。
+示例为FC，其他可参考这个示例。
+
+
+Add a multi-choice script, which will be set as the default after selection, 
+and start the game with the selected kernel next time.
+The example is FC, and others can refer to this example.
