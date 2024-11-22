@@ -25,6 +25,14 @@ Resources for Miyoo Mini
 
 [Allium](https://github.com/goweiwen/Allium)
 
+[MinUI](https://github.com/shauninman/MinUI)
+
+[MyMinUI](https://github.com/Turro75/MyMinUI)
+
+[spruceUI](https://github.com/spruceUI/spruceOS)
+
+[Koriki](https://github.com/Rparadise-Team/Koriki)
+
 [BusyBox commands](https://busybox.net/downloads/BusyBox.html)
 
 [SSD202D SDK Reference](https://wx.comake.online/doc/d8clf27cnes2-SSD20X/customer/development/arch/arch.html)
