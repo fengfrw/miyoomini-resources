@@ -7,7 +7,7 @@ Miyoo Mini 2,8" "OG"
 Miyoo Mini+ 3,5" "MMP"
 
 **miyoo_355**  
-Miyoo-FLIP 3,5" "FLIP"
+Miyoo FLIP 3,5" "FLIP"
 
 **miyoo_282**  
 Miyoo Mini 2,8" "A30"
