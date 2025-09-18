@@ -12,6 +12,9 @@ Miyoo-FLIP 3,5" "FLIP"
 **miyoo_282**  
 Miyoo Mini 2,8" "A30"
 
+**miyoo_285**  
+Miyoo Mini 2,8" "Mini Flip"
+
 [**Wiki**](https://github.com/anzz1/miyoomini-resources/wiki)
 
 ## Links
